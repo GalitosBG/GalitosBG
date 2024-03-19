@@ -64,6 +64,7 @@ export default function RootLayout({ children }) {
     <LangProvider>
       <html lang='en' className={myFont.className}>
         <head>
+          <meta name="facebook-domain-verification" content="srzagrf58aglni0ez1vvju4xia6qg6" /> 
           <link
             href='https://fonts.googleapis.com/css2?family=Monoton&family=Rubik:wght@300;400;500;600;700&display=swap'
             rel='stylesheet'

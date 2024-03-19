@@ -47,9 +47,7 @@ const Footer = () => {
       </div>
       <div className={`container my-10 flex items-center max-sm:flex-col max-sm:gap-5 max-sm:items-center max-sm:justify-center gap-5 mx-auto max-sm:w-[95%] 2xl:px-[8rem]`}>
         <h1>
-          {
-            new Date().getFullYear()
-          } &copy; Galito's
+           Galito's &copy; {new Date().getFullYear()} Developed by <a href="https://redbudi.com">redbudi.com</a>
         </h1>
         <Link href={`/privacy-policy`}>Privacy policy</Link>
       </div>
