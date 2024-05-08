@@ -22,7 +22,6 @@ const TarzanaWide = localFont({
 const BlogItem = ({ params }) => {
   const { lang } = useContext(LangContext);
   const item = blog_items.find((item) => item.key === params.id);
-  console.log(item);
 
   return (
     <div className={`container mx-auto relative ${TarzanaWide.className}`}>
