@@ -154,8 +154,11 @@ const Header = () => {
                 </Link>
               </div>
             </div>
+            <div className={`ml-auto mr-1 @[760px]:hidden`}>
+              <Translate />
+            </div>
             <div
-              className={`ml-auto mr-3 @[760px]:hidden`}
+              className={`mr-3 @[760px]:hidden`}
               onClick={() => setOpen(!open)}
             >
               <i
@@ -272,9 +275,6 @@ const Header = () => {
                 {translate[lang]["Kontakt"]}
               </Link>
             </div>
-          </div>
-          <div className={`mt-5`}>
-            <Translate />
           </div>
         </div>
       </div>
