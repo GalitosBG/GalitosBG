@@ -20,7 +20,7 @@ const TopCategories = () => {
     },
     {
       id: 3,
-      name: "FLAME GRILLED CHICKEN",
+      name: translate[lang]["GALITOS CLASSIC`s"],
       slug: "flame-grilled-chicken",
     },
     {
@@ -35,7 +35,7 @@ const TopCategories = () => {
     },
     {
       id: 6,
-      name: translate[lang]["PORODIČNI OBROK"],
+      name: translate[lang]["PODELI OBROK"],
       slug: "porodicni-obrok",
     },
     {
@@ -46,10 +46,16 @@ const TopCategories = () => {
     {
       id: 8,
       name: translate[lang]["PIRI KRILCA"],
+      
       slug: "piri-krilca",
     },
     {
       id: 9,
+      name: translate[lang]["DEČIJI MENI"],
+      slug: "deci-meni",
+    },
+    {
+      id: 10,
       name: translate[lang]["DEZERTI"],
       slug: "dezerti",
     },
