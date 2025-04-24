@@ -118,7 +118,7 @@ export const translate = {
     godina: "godina",
     iskustva: "iskustva",
     "PIRI KRILCA": "PIRI KRILCA",
-    "pileća krilca grilovana na otvorenom plamenu": "pileća krilca grilovana na otvorenom plamenu",
+    "Pileća krilca grilovana na otvorenom plamenu": "Pileća krilca grilovana na otvorenom plamenu",
     PREDJELA: "PREDJELA",
     "GRILOVANA PILEĆA DŽIGERICA": "GRILOVANA PILEĆA DŽIGERICA",
     "Grilovana pileća džigerica, sishebo sos, hleb sa belim lukom":
@@ -340,7 +340,7 @@ export const translate = {
     PREDJELA: "STARTERS",
     "PIRI KRILCA": "PIRI WINGS",
     "Prženi / hrskavi krompirići sa piri-piri začinima": "Fried potato with piri-piri seasoning spices",
-    "pileća krilca grilovana na otvorenom plamenu": "Grilled chicken wings on an open flame",
+    "Pileća krilca grilovana na otvorenom plamenu": "Grilled chicken wings on an open flame",
     "CEPKANA PILETINA WRAP": "PULLED CHICKEN WRAP",
     "Cepkana piletina grilovana na otvorenom plamenu, crni luk, paprika, ajsberg salata, majonez, čedar, sishebo sos & servirano sa pomfritom": "Flame grilled pulled chicken, onion, pepper, iceberg lettuce, mayonnaise, cheddar cheese, sishebo sauce & served with fries",
     "Galitos obećava nezaboravne trenutke stvorene uz najukusnije pileće obroke sa roštilja na svetu.":
