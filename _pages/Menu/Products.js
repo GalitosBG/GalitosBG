@@ -61,8 +61,7 @@ const Products = ({ className }) => {
           name: translate[lang]["PILEĆI TACOS"],
           description:
             translate[lang][
-              "Takos tortilja sa čili bin i ajsberg salatom, drpana piletina sa grilovanom paprikom i lukom"
-            ],
+              "Takos tortilja sa čili bin i ajsberg salatom, drpana piletina sa grilovanom paprikom i lukom"],
           price: 790,
           image: "/Food/Starters & Soup salad/Flame Grilled Chicken Tacos.jpg",
         },
@@ -142,7 +141,7 @@ const Products = ({ className }) => {
           image: "/Food/Starters & Soup salad/Galito's Caesar Salad.jpg",
         },
         {
-          name: translate[lang]["GRILL MASTER,S (PILEĆA) SALATA (V)"],
+          name: translate[lang]["GRILL MASTER,S (PILEĆA) SALATA"],
           description:
             translate[lang][
               "Grilovani pilećin file, mix zelene i ajsberg salate, krastavac, paradajz, crni luk, paprika, marinirana cvekla, grilovani slatki kukuruz (šećerac), sjenički sir, krutoni, fresh lemon dressing"
