@@ -87,7 +87,7 @@ const Products = ({ className }) => {
               "Grilovani pileći file na štapiću sa piri-piri sosem od kikirikija"
             ],
           price: 790,
-          image: "/Food/Starters & Soup salad/L&H Chciken Satay.jpg",
+          image: "/Food/Starters & Soup salad/Pileci Satay sa limunom i zacinima.jpg",
         },
         {
           name: translate[lang]["PILEĆI POPCORN"],
@@ -147,7 +147,7 @@ const Products = ({ className }) => {
               "Grilovani pilećin file, mix zelene i ajsberg salate, krastavac, paradajz, crni luk, paprika, marinirana cvekla, grilovani slatki kukuruz (šećerac), sjenički sir, krutoni, fresh lemon dressing"
             ],
           price: 1090,
-          image: "/Food/Starters & Soup salad/Grill Master's Salad.jpg",
+          image: "/Food/Starters & Soup salad/Grill Master's Salad with chicken.jpg",
         },
       ],
     },
@@ -214,13 +214,13 @@ const Products = ({ className }) => {
           image: "/Food/Starters & Soup salad/quarter leg meal.jpg",
         },
         {
-          name: translate[lang]["(GALITO,S) PILEĆI FILE"],
+          name: translate[lang]["GRILOVANI PILEĆI FILE SA POMFRITOM"],
           description:
             translate[lang][
-              "Grilovani pileći file, !!!!!!"
+              "Grilovani pileći file"
             ],
           price: 1090,
-          image: "/Food/Starters & Soup salad/chicken tenders.jpg",
+          image: "/Food/Starters & Soup salad/Boneless Chicken (fillets).jpg",
         },
         {
           name: translate[lang]["DURBAN PILETINA"],
@@ -311,7 +311,7 @@ const Products = ({ className }) => {
           name: translate[lang]["SMASH BEEF BURGER"],
           description:
             translate[lang][
-              "Mlevena junetina, majonez, čedar sir, kiseli krastavci, domaći burger sos & servirano sa pomfritom"
+              "Mlevena junetina, čedar sir, kiseli krastavci, domaći burger sos & servirano sa pomfritom"
             ],
           price: 1190,
           image: "/Food/Burgers &nWrap/Smash Beef Burger.jpg",
@@ -416,6 +416,13 @@ const Products = ({ className }) => {
           image: "/Food/Sides/fries.jpg",
         },
         {
+          name: translate[lang]["CHEESY FRIES"],
+          description: translate[lang]["Prženi / hrskavi krompirići sa topljenim čedar sirom"],
+          price: 450,
+          type: "regular",
+          image: "/Food/Sides/DSC03546.jpg",
+        },
+        {
           name: translate[lang]["PIRI POMFRIT"],
           description: translate[lang]["Prženi / hrskavi krompirići sa piri-piri začinima"],
           price: 290,
@@ -445,7 +452,7 @@ const Products = ({ className }) => {
         },
         {
           name: translate[lang]["SVEŽA SALATA"],
-          description: translate[lang]["Ajsberg salata, paprika, krastavac, čeri paradajz, italijanski dresing"],
+          description: translate[lang]["Ajsberg salata, paprika, krastavac, paradajz, italijanski dresing"],
           price: 350,
           type: "regular",
           image: "/Food/Sides/Side Salad.jpg",
