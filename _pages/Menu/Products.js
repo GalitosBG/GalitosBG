@@ -66,7 +66,7 @@ const Products = ({ className }) => {
           image: "/Food/Starters & Soup salad/Flame Grilled Chicken Tacos.jpg",
         },
         {
-          name: "PIRIMMUS   (V)",
+          name: "PIRIMMUS (V)",
           description: translate[lang]["Humus, piri začin, pita hleb"],
           price: 590,
           image: "/Food/Starters & Soup salad/Pirimmus.jpg",
@@ -416,11 +416,11 @@ const Products = ({ className }) => {
           image: "/Food/Sides/fries.jpg",
         },
         {
-          name: translate[lang]["CHEESY FRIES"],
+          name: translate[lang]["KAČKAVALJ POMFRIT"],
           description: translate[lang]["Prženi / hrskavi krompirići sa topljenim čedar sirom"],
           price: 450,
           type: "regular",
-          image: "/Food/Sides/DSC03546.jpg",
+          image: "/Food/Sides/KAČKAVALJ_POMFRIT.jpg",
         },
         {
           name: translate[lang]["PIRI POMFRIT"],
@@ -473,7 +473,7 @@ const Products = ({ className }) => {
         },
         {
           name: translate[lang]["CHILI BEAN SALATA"],
-          description: translate[lang]["Boraniја, bob, pečeni pasulj, paprike, crni luk, naš domaći piri-piri sos sa slatko-ljutkastim ukusom"],
+          description: translate[lang]["Boranija, bob, pečeni pasulj, paprike, crni luk, naš domaći piri-piri sos sa slatko-ljutkastim ukusom"],
           price: 390,
           type: "regular",
           image: "/Food/Sides/Chilli Bean.jpg",
@@ -565,12 +565,12 @@ const Products = ({ className }) => {
           image: "/Food/Desserts/Sticky Toffee Pudding.jpg",
           price: 550,
         },
-        // {
-        //   name: `${translate[lang]["SLADOLED"]}`,
-        //   description: translate[lang]["Kugla sladoleda od vanile"],
-        //   price: 190,
-        //   image: "/Food/Desserts/Chocolate Brownie.jpg",
-        // },
+        {
+          name: `${translate[lang]["SLADOLED"]}`,
+          description: translate[lang]["Kugla sladoleda od vanile"],
+          price: 190,
+          image: "/Food/Desserts/Sladoled Vanila.jpg",
+        },
       ],
     },
   ];
