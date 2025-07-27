@@ -171,7 +171,7 @@ const Products = ({ className }) => {
             ],
           price: 990,
           image:
-            "/Food/Flame Grilled Chicken and rice bowls/Chick and veggie rice.jpg",
+            "/Food/Flame Grilled Chicken and rice bowls/Galibowl.jpg",
         },
         {
           name: translate[lang]["PILEĆA DŽIGERICA BOWL"],
@@ -196,7 +196,7 @@ const Products = ({ className }) => {
               "Grilovani pileći file, spanać, chili beans, pirinač"
             ],
           price: 1090,
-          image: "/Food/Flame Grilled Chicken and rice bowls/Galibowl.jpg",
+          image: "/Food/Flame Grilled Chicken and rice bowls/Chick and veggie rice.jpg",
         },
       ],
     },
