@@ -413,7 +413,7 @@ const Products = ({ className }) => {
           description: translate[lang]["Prženi / hrskavi krompirići"],
           price: 290,
           type: "regular",
-          image: "/Food/Sides/fries.jpg",
+          image: "/Food/Sides/fries.png",
         },
         {
           name: translate[lang]["KAČKAVALJ POMFRIT"],
