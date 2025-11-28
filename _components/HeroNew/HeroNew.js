@@ -23,7 +23,7 @@ const HeroNew = ({ className }) => {
             <span className={lang === "en" ? className : `bebas`}>
               {
                 translate[lang][
-                  "Galitos obećava nezaboravne trenutke stvorene uz najukusnije pileće obroke sa roštilja na svetu."
+                  "Gallos obećava nezaboravne trenutke stvorene uz najukusnije pileće obroke sa roštilja na svetu."
                 ]
               }
             </span>

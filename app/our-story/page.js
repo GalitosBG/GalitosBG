@@ -58,7 +58,7 @@ const OurStory = () => {
             >
               {
                 translate[lang][
-                  "Osnovan u malom gradu Nelspruitu u Južnoj Africi 1996. godine, Galito's se kontinuirano širio kako u Južnoj Africi, tako i na međunarodnim tržištima."
+                  "Osnovan u malom gradu Nelspruitu u Južnoj Africi 1996. godine, Gallo's se kontinuirano širio kako u Južnoj Africi, tako i na međunarodnim tržištima."
                 ]
               }
             </p>
@@ -100,7 +100,7 @@ const OurStory = () => {
                 lang === "en" ? TarzanaWide.className : `bebas`
               } text-[40px] font-bold text-center mt-20 uppercase`}
           >
-            {translate[lang]["ZAŠTO IZABRATI GALITO'S?"]}
+            {translate[lang]["ZAŠTO IZABRATI GALLO'S?"]}
           </h1>
           <p
             className={`text-center text-[20px] font-light max-w-[600px] mx-auto mt-10`}

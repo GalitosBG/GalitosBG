@@ -20,35 +20,41 @@ const TopCategories = () => {
     },
     {
       id: 3,
-      name: translate[lang]["GALITOS CLASSIC`s"],
+      name: translate[lang]["CLASSIC GRILLED"],
       slug: "flame-grilled-chicken",
     },
     {
       id: 4,
+      name: translate[lang]["CRISPY CORNER / HRSKAVI"],
+      slug: "crispy-corner-hrskavi",
+      
+    },
+    {
+      id: 5,
       name: translate[lang]["BURGERI I WRAPOVI"],
       slug: "burgeri-i-wrappovi",
     },
     {
-      id: 5,
+      id: 6,
       name: translate[lang]["ČINIJE PIRINČA"],
       slug: "cinije-pirinca",
     },
     {
-      id: 6,
+      id: 7,
       name: translate[lang]["PODELI OBROK"],
       slug: "porodicni-obrok",
     },
     {
-      id: 7,
+      id: 8,
       name: translate[lang]["PRILOZI"],
       slug: "prilozi",
     },
-    {
-      id: 8,
-      name: translate[lang]["PIRI KRILCA"],
+    // {
+    //   id: 9,
+    //   name: translate[lang]["PIRI KRILCA"],
       
-      slug: "piri-krilca",
-    },
+    //   slug: "piri-krilca",
+    // },
     {
       id: 9,
       name: translate[lang]["DEČIJI MENI"],

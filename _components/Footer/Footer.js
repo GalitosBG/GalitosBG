@@ -15,7 +15,7 @@ const Footer = () => {
         <div className={`flex self-start flex-col items-start gap-2`}>
           <Link href={`/`}>
             <Image
-              src={`/Images/Galitos-Logo.svg`}
+              src={`/Images/gallosblack_left.png`}
               alt={``}
               width={160}
               height={120}
@@ -23,7 +23,7 @@ const Footer = () => {
           </Link>
         </div>
         <div className={`flex self-start flex-col items-start gap-3`}>
-          <h1 className={`text-2xl font-bold`}>{translate[lang]["Jela"]}</h1>
+          <p className={`text-2xl font-bold`}>{translate[lang]["Jela"]}</p>
           <Link href={`/menu`} className={`text-lg relative hovered font-normal`}>
             {translate[lang]["Meni"]}
           </Link>
@@ -31,14 +31,14 @@ const Footer = () => {
             {translate[lang]["Sosevi"]}          </Link>
         </div>
         <div className={`flex flex-col self-start items-start gap-3`}>
-          <h1 className={`text-2xl font-bold`}>{translate[lang]["Naša priča"]}</h1>
+          <p className={`text-2xl font-bold`}>{translate[lang]["Naša priča"]}</p>
           <Link href={`/our-story`} className={`text-lg relative hovered font-normal`}>
             {translate[lang]["Naša priča"]}
           </Link>
 
         </div>
         <div className={`flex flex-col self-start items-start gap-3`}>
-          <h1 className={`text-2xl font-bold`}>{translate[lang]["Razgovarajte sa nama"]}</h1>
+          <p className={`text-2xl font-bold`}>{translate[lang]["Razgovarajte sa nama"]}</p>
           <Link href={`/contact`} className={`text-lg relative hovered font-normal`}>
             {translate[lang]["Kontakt"]}
           </Link>
@@ -46,9 +46,9 @@ const Footer = () => {
         </div>
       </div>
       <div className={`container my-10 flex items-center max-sm:flex-col max-sm:gap-5 max-sm:items-center max-sm:justify-center gap-5 mx-auto max-sm:w-[95%] 2xl:px-[8rem]`}>
-        <h1>
-           Galito's &copy; {new Date().getFullYear()} Developed by <a href="https://redbudi.com">redbudi.com</a>
-        </h1>
+        <p>
+           Gallo's &copy; {new Date().getFullYear()} Developed by <a href="https://redbudi.com">redbudi.com</a>
+        </p>
         <Link href={`/privacy-policy`}>Privacy policy</Link>
       </div>
     </div>

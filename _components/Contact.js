@@ -32,7 +32,7 @@ const ContactPage = ({ className }) => {
         <p className={`text-[1rem] max-w-md text-slate-500 leading-[1.5rem]`}>
           {
             translate[lang][
-              "Ako želite da nam ispričate svoje iskustvo u Galito'su ili želite saznati više o nama, nalazite se na pravom mestu. Pišite nam na mejl i mi ćemo vam odgovoriti."
+              "Ako želite da nam ispričate svoje iskustvo u Gallo'su ili želite saznati više o nama, nalazite se na pravom mestu. Pišite nam na mejl i mi ćemo vam odgovoriti."
             ]
           }
         </p>
@@ -58,9 +58,9 @@ const ContactPage = ({ className }) => {
             <form
               className={`flex flex-col gap-3 items-start justify-center p-5 w-full`}
             >
-              <h1 className={`font-semibold text-[1.5rem] text-slate-800`}>
+              <p className={`font-semibold text-[1.5rem] text-slate-800`}>
                 {translate[lang]["Pošalji poruku"]}
-              </h1>
+              </p>
               <p className={`text-slate-500 text-[1rem]`}>
                 - {translate[lang]["Naš email:"]}
                 <a
@@ -76,9 +76,9 @@ const ContactPage = ({ className }) => {
                   +381 62 82 88 088
                 </a>
               </p>
-              <h1 className={`font-semibold text-[1.5rem] text-slate-800`}>
+              <p className={`font-semibold text-[1.5rem] text-slate-800`}>
                 {translate[lang]["Naša adresa"]}
-              </h1>
+              </p>
               <a
                 href={`https://g.co/kgs/jU2jfw`}
                 target={`_blank`}

@@ -17,7 +17,7 @@ const Promo = () => {
           <h1
             className={`text-[2.5rem] leading-[100%] py-5 text-left font-semibold text-slate-800 relative z-10`}
           >
-            {translate[lang]["ZAŠTO IZABRATI GALITO'S?"]}
+            {translate[lang]["ZAŠTO IZABRATI GALLO'S?"]}
           </h1>
           <p className={`text-slate-500  sm:text-left`}>
             {translate[lang]["Sa više od 27 godina iskustva u franšizingu, omogućavamo potpunu podršku franšiznim partnerima širom sveta."]}

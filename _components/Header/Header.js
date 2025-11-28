@@ -22,24 +22,24 @@ const Header = () => {
           >
             <div className={`flex items-center gap-2`}>
               <Link href={`/`}>
-                <Image
+                {/* <Image
                   src={`/Images/logo.svg`}
                   alt={`logo`}
                   width={110}
                   height={40}
-                />
+                /> */}
               </Link>
               <Link href={`/`}>
                 <Image
-                  src={`/Images/Galitos-Logo.svg`}
+                  src={`/Images/gallosblack_left.png`}
                   alt={``}
-                  width={110}
-                  height={40}
+                  width={300}
+                  height={100}
                 />
               </Link>
             </div>
             <div
-              className={`@[760px]:flex hidden items-center gap-[0rem] @[1100px]:gap-[10rem] `}
+              className={`@[990px]:flex hidden items-center gap-[0rem] @[1100px]:gap-[10rem] md:ml-5`}
             >
               <div className={`flex items-center gap-[3rem] `}>
                 <div className={`flex items-center gap-2`}>
@@ -61,7 +61,7 @@ const Header = () => {
                 <div className={`flex items-center gap-2`}>
                   <Link
                     className={`
-                 hover:from-0% hover:to-100% hover:bg-gradient-to-r relative hover:text-[#91c055] transition-all duration-300 ease-in-out
+                 hover:from-0% hover:to-100% whitespace-nowrap hover:bg-gradient-to-r relative hover:text-[#91c055] transition-all duration-300 ease-in-out
                 `}
                     href={`/our-story`}
                   >
@@ -88,7 +88,7 @@ const Header = () => {
                     )}
                   </Link>
                 </div>
-                <div className={`flex items-center gap-2`}>
+                {/* <div className={`flex items-center gap-2`}>
                   <Link
                     className={`
                  hover:from-0% hover:to-100% hover:bg-gradient-to-r relative hover:text-[#91c055] transition-all duration-300 ease-in-out
@@ -102,7 +102,7 @@ const Header = () => {
                       ></div>
                     )}
                   </Link>
-                </div>
+                </div> */}
                 <div className={`flex items-center gap-2`}>
                   <Link
                     className={`
@@ -154,11 +154,11 @@ const Header = () => {
                 </Link>
               </div>
             </div>
-            <div className={`ml-auto mr-1 @[760px]:hidden`}>
+            <div className={`ml-auto mr-1 @[990px]:hidden`}>
               <Translate />
             </div>
             <div
-              className={`mr-3 @[760px]:hidden`}
+              className={`mr-3 @[990px]:hidden`}
               onClick={() => setOpen(!open)}
             >
               <i

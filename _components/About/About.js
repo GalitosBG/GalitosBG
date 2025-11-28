@@ -15,7 +15,7 @@ const About = () => {
             <div
               className={`border-dashed border p-4 text-center border-slate-300`}
             >
-              <h1 className={`font-normal text-5xl monoton`}>27</h1>
+              <p className={`font-normal text-5xl monoton`}>27</p>
               <p className={`font-medium text-lg`}>years</p>
               <p className={`font-medium text-lg`}>experience</p>
             </div>
@@ -29,7 +29,7 @@ const About = () => {
         </div>
         <div className={`col-span-1 max-md:col-span-2 max-md:mt-4 flex flex-col gap-5 justify-center`}>
           <h1 className={`font-bold text-4xl text-slate-900`}>
-            HOME IS WHERE GALITO'S IS
+            HOME IS WHERE GALLO'S IS
           </h1>
           <p className={`text-[1rem] max-w-md text-slate-500 leading-[1.5rem]`}>
             Our unique flame-grilled and fiery flavour remains at the heart of

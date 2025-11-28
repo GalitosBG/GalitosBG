@@ -8,7 +8,7 @@ const PrivacyPolicy = () => {
         <p>
           We take seriously the protection of your personal data. The
           information provided below will inform you what data we collect about
-          you when you visit our website (galitos.rs), as well as how we use and
+          you when you visit our website (gallos.rs), as well as how we use and
           process it. Our privacy policy does not apply to websites linked to
           our website. By agreeing to this Privacy Policy statement, you
           authorise NOVUS RESTAURANTS DOO to process your personal data in line

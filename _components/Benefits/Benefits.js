@@ -39,11 +39,11 @@ const Benefits = () => {
         {data.map((item) => {
           return (
             <div key={item.id} className={`flex px-3 gap-5 items-start`}>
-              <h1 className={`text-[2.625rem] monoton text-[#F9A109] font-normal`}>
+              <p className={`text-[2.625rem] monoton text-[#F9A109] font-normal`}>
                 {item.id}
-              </h1>
+              </p>
               <div className={`flex flex-col items-start gap-2`}>
-                <h1 className={`font-semibold text-[1.375rem]`}>{item?.title}</h1>
+                <p className={`font-semibold text-[1.375rem]`}>{item?.title}</p>
                 <p className={`text-sm text-slate-500`}>{item?.description}</p>
               </div>
             </div>

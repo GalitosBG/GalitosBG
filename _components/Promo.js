@@ -11,7 +11,7 @@ const Promo = () => {
   const data = [
     {
       id: 1,
-      title: translate[lang]["Galitos Classic`s"],
+      title: translate[lang]["CLASSIC GRILLED"],
       image: "/Images/Homepage_Flame-Grill.png",
       slug: "flame-grilled-chicken",
     },

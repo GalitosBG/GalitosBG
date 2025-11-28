@@ -22,7 +22,7 @@ const TopSection = () => {
             {/*</span>{" "}*/}
           </h1>
           <p className={`text-slate-500 sm:max-w-[50%] sm:text-center`}>
-            {translate[lang]["Osnovan u malom gradu Nelspruitu u Južnoj Africi 1996. godine, Galito's se kontinuirano širio kako u Južnoj Africi, tako i na međunarodnim tržištima."]}
+            {translate[lang]["Osnovan u malom gradu Nelspruitu u Južnoj Africi 1996. godine, Gallo's se kontinuirano širio kako u Južnoj Africi, tako i na međunarodnim tržištima."]}
           </p>
           <img src={`/Images/dots.png`} alt={``} width={100} height={100}  className={`mt-10 mx-auto`} />
         </div>
