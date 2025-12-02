@@ -173,14 +173,14 @@ const Products = ({ className }) => {
           image:
             "/Food/Flame Grilled Chicken and rice bowls/Galibowl.jpg",
         },
-        {
-          name: translate[lang]["PILEĆA DŽIGERICA BOWL"],
-          description:
-            translate[lang]["Grilovana pileća džigerica, pirinač, sishebo sos"],
-          price: 990,
-          image:
-            "/Food/Flame Grilled Chicken and rice bowls/Livers Rice Bowl.jpg",
-        },
+        // {
+        //   name: translate[lang]["PILEĆA DŽIGERICA BOWL"],
+        //   description:
+        //     translate[lang]["Grilovana pileća džigerica, pirinač, sishebo sos"],
+        //   price: 990,
+        //   image:
+        //     "/Food/Flame Grilled Chicken and rice bowls/Livers Rice Bowl.jpg",
+        // },
         {
           name: "VEGGIE BOWL",
           description:
