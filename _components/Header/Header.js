@@ -171,7 +171,7 @@ const Header = () => {
                 <Image src={menu} width={34} height={34} alt="cancel icon Gallos" className="ease transition-all w-[30px] min-w-[30px]" />
               )}
             </div>
-            <div className={`ml-2  @[990px]:hidden`}>
+            <div className={`ml-2 mr-4  @[990px]:hidden`}>
             <Link
                   href={`https://www.instagram.com/gallos_serbia/`}
                   target={`_blank`}
