@@ -8,6 +8,8 @@ import langContext from "@/_context/langContext";
 import { translate } from "@/_context/lang";
 import instagram_icon from "@/public/Icons/instagram-icon.png"
 import facebook_icon from "@/public/Icons/facebook-icon.png"
+import menu from "@/public/Icons/burger-bar.png"
+import cancel from "@/public/Icons/cancel.png"
 
 const Header = () => {
   const pathname = usePathname();
@@ -162,11 +164,12 @@ const Header = () => {
               className={`mr-3 @[990px]:hidden`}
               onClick={() => setOpen(!open)}
             >
-              <i
-                className={`fa ${
-                  open ? "fa-times" : "fa-bars"
-                } text-2xl cursor-pointer p-2 rounded-lg border border-[#e9e9e9]`}
-              ></i>
+             
+              {open ? (
+                <Image src={cancel} width={28} height={28} alt="cancel icon Gallos" className="ease transition-all w-[22px] min-w-[22px]" />
+              ) : (
+                <Image src={menu} width={34} height={34} alt="cancel icon Gallos" className="ease transition-all w-[30px] min-w-[30px]" />
+              )}
             </div>
             <div className={`ml-2  @[990px]:hidden`}>
             <Link
@@ -238,7 +241,7 @@ const Header = () => {
                 {translate[lang]["Meni"]}
               </Link>
             </div>
-            <div className={`flex items-center gap-2`}>
+            {/* <div className={`flex items-center gap-2`}>
               {pathname === "/sauces" && (
                 <div
                   className={`h-[8px] w-[8px] bg-[#ffce04] rounded-full`}
@@ -253,7 +256,7 @@ const Header = () => {
               >
                 {translate[lang]["Sosevi"]}
               </Link>
-            </div>
+            </div> */}
             <div className={`flex items-center gap-2`}>
               {pathname === "/blog" && (
                 <div
