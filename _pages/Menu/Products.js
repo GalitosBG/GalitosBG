@@ -684,7 +684,7 @@ const Products = ({ className }) => {
                         >
                           <Image
                             src={item?.image}
-                            alt={`Galitos`}
+                            alt={`Gallos`}
                             sizes={`100vw`}
                             width={0}
                             height={0}
@@ -694,7 +694,7 @@ const Products = ({ className }) => {
                       ) : (
                         <Image
                           src={NoImg}
-                          alt={`Galitos`}
+                          alt={`Gallos`}
                           className={`w-full h-auto rounded-2xl`}
                         />
                       )}

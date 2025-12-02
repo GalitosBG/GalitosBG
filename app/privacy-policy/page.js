@@ -32,13 +32,17 @@ const PrivacyPolicy = () => {
           Beograd
           <br />
           <br />
+          Čika Ljubina 7, 11000
+          Beograd
+          <br />
+          <br />
           11000 Belgrade
           <br />
           <br />
           Phone: +381 062 82 88 088
           <br />
           <br />
-          Email: rm.galitos@novusrestaurants.rs
+          Email: office@novusrestaurants.rs
           <br />
           <br />
           Your rights

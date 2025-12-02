@@ -65,9 +65,9 @@ const ContactPage = ({ className }) => {
                 - {translate[lang]["Naš email:"]}
                 <a
                   className={`text-[#ffce04]`}
-                  href={`mailto:rm.galitos@novusrestaurants.rs`}
+                  href={`mailto:office@novusrestaurants.rs`}
                 >
-                  rm.galitos@novusrestaurants.rs
+                  office@novusrestaurants.rs
                 </a>
               </p>
               <p className={`text-slate-500 text-[1rem]`}>
@@ -87,6 +87,11 @@ const ContactPage = ({ className }) => {
                 {
                   translate[lang][
                     "Nivo 2, Galerija Mall (parking A), Bulevar Vudroa Vilsona 12, 11000 Beograd"
+                  ]
+                }
+                                {
+                  translate[lang][
+                    "Čika Ljubina 7"
                   ]
                 }
               </a>

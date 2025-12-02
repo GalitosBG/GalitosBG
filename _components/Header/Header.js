@@ -6,6 +6,8 @@ import Translate from "@/_components/Translate/Translate";
 import { useContext, useState } from "react";
 import langContext from "@/_context/langContext";
 import { translate } from "@/_context/lang";
+import instagram_icon from "@/public/Icons/instagram-icon.png"
+import facebook_icon from "@/public/Icons/facebook-icon.png"
 
 const Header = () => {
   const pathname = usePathname();
@@ -137,25 +139,24 @@ const Header = () => {
               <div className={`flex items-center gap-2`}>
                 <Translate />
                 <Link
-                  href={`https://instagram.com/galitos_serbia?igshid=NjIwNzIyMDk2Mg==`}
+                  href={`https://www.instagram.com/gallos_serbia/`}
                   target={`_blank`}
                 >
-                  <i
-                    className={`fa fa-brands fa-instagram cursor-pointer hover:text-orange-300 text-xl text-black`}
-                  ></i>
+              
+                  <Image src={instagram_icon} alt="Instagram icon Galos" className="w-[26px]" width={30} height={30}/>
                 </Link>
-                <Link
+                {/* <Link
                   href={`https://www.facebook.com/profile.php?id=61550593080288&mibextid=ZbWKwL`}
                   target={`_blank`}
                 >
-                  <i
-                    className={`fa fa-brands fa-facebook-f cursor-pointer hover:text-orange-300 text-xl text-black`}
-                  ></i>
-                </Link>
+               
+                  <Image src={facebook_icon} alt="Instagram icon Galos" className="w-[26px]" width={30} height={30}/>
+                </Link> */}
               </div>
             </div>
             <div className={`ml-auto mr-1 @[990px]:hidden`}>
               <Translate />
+              
             </div>
             <div
               className={`mr-3 @[990px]:hidden`}
@@ -167,9 +168,19 @@ const Header = () => {
                 } text-2xl cursor-pointer p-2 rounded-lg border border-[#e9e9e9]`}
               ></i>
             </div>
+            <div className={`ml-2  @[990px]:hidden`}>
+            <Link
+                  href={`https://www.instagram.com/gallos_serbia/`}
+                  target={`_blank`}
+                >
+              
+                  <Image src={instagram_icon} alt="Instagram icon Galos" className="w-[26px]" width={30} height={30}/>
+                </Link>
+                </div>
           </div>
         </div>
       </div>
+      
       <div
         className={
           open
@@ -278,12 +289,14 @@ const Header = () => {
           </div>
         </div>
       </div>
+   
       {open && (
         <div
           className={`fixed top-0 z-[10] left-0 w-screen h-screen bg-black/40`}
           onClick={() => setOpen(false)}
         ></div>
       )}
+      
     </>
   );
 };

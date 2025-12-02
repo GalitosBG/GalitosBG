@@ -12,20 +12,20 @@ const tagManagerArgs = {
 };
 
 export const metadata = {
-  title: "Galitos ",
+  title: "Gallos",
   description:
-    "Savor the bold taste of Galito's at Galerija Mall- Your destination for Flame-Grilled Piri Piri perfection! Indulge in healthy flame-grilled chicken delights from grilled chicken salad, Piri Piri Chicken, burgers and wraps to rice bowl.",
+    "Savor the bold taste of Gallo's at Galerija Mall- Your destination for Flame-Grilled Piri Piri perfection! Indulge in healthy flame-grilled chicken delights from grilled chicken salad, Piri Piri Chicken, burgers and wraps to rice bowl.",
   image: "https://ridgewaysmall.co.ke/wp-content/uploads/2021/10/Galitos-2.jpg",
   openGraph: {
-    title: "Galitos",
+    title: "Gallos",
     description:
-      "Savor the bold taste of Galito's at Galerija Mall- Your destination for Flame-Grilled Piri Piri perfection! Indulge in healthy flame-grilled chicken delights from grilled chicken salad, Piri Piri Chicken, burgers and wraps to rice bowl.",
+      "Savor the bold taste of Gallo's at Galerija Mall- Your destination for Flame-Grilled Piri Piri perfection! Indulge in healthy flame-grilled chicken delights from grilled chicken salad, Piri Piri Chicken, burgers and wraps to rice bowl.",
     images: [
       {
         url: "https://ridgewaysmall.co.ke/wp-content/uploads/2021/10/Galitos-2.jpg",
         width: 800,
         height: 600,
-        alt: "Galitos",
+        alt: "Gallos",
       },
     ],
   },

@@ -121,6 +121,8 @@ export const translate = {
     "Naša adresa": "Naša adresa",
     "Nivo 2, Galerija Mall (parking A), Bulevar Vudroa Vilsona 12, 11000 Beograd":
       "Nivo 2, Galerija Mall (parking A), Bulevar Vudroa Vilsona 12, 11000 Beograd",
+    "Čika Ljubina 7":
+      "Čika Ljubina 7",
     godina: "godina",
     iskustva: "iskustva",
     "GRILOVANA PILEĆA KRILCA": "GRILOVANA PILEĆA KRILCA",
@@ -448,6 +450,8 @@ export const translate = {
     "Naša adresa": "Our Address",
     "Nivo 2, Galerija Mall (parking A), Bulevar Vudroa Vilsona 12, 11000 Beograd":
       "Level 2, Galerija Mall (parking A), Boulevard Woodrow Wilson 12, 11000 Belgrade",
+    "Čika Ljubina 7":
+      "Čika Ljubina 7",
     Početna: "Home",
     "SLADOLED": "ICE CREAM",
     "CHEESY POMFRIT": "CHEESY FRIES",

@@ -22,7 +22,7 @@ const BlogItems = () => {
                 {data?.image ? (
                   <Image
                     src={data?.image}
-                    alt={`Galitos`}
+                    alt={`Gallos`}
                     width={350}
                     height={300}
                     className={`object-cover w-full rounded-2xl`}
@@ -30,7 +30,7 @@ const BlogItems = () => {
                 ) : (
                   <Image
                     src={NoImg}
-                    alt={`Galitos`}
+                    alt={`Gallos`}
                     className={`w-full h-auto rounded-2xl`}
                   />
                 )}
