@@ -13,7 +13,7 @@ const TopSection = () => {
           <h1
             className={`text-[4.5rem] leading-[100%] py-5 text-center font-semibold text-slate-800 relative z-10`}
           >
-            {translate[lang]["Naša priča počinje pre 27 godina."]}
+            {translate[lang]["Naša priča"]}
             {/*<span*/}
             {/*  className={`text-transparent bg-clip-text bg-gradient-to-r max-sm:leading-[100%] from-[#ffce04] to-[#c43937]`}*/}
             {/*>*/}
@@ -22,7 +22,7 @@ const TopSection = () => {
             {/*</span>{" "}*/}
           </h1>
           <p className={`text-slate-500 sm:max-w-[50%] sm:text-center`}>
-            {translate[lang]["Osnovan u malom gradu Nelspruitu u Južnoj Africi 1996. godine, Gallo's se kontinuirano širio kako u Južnoj Africi, tako i na međunarodnim tržištima."]}
+            {translate[lang]["Naša priča počela je u maloj zajednici, gde je jednostavna ljubav prema dobroj hrani prerasla u brend koji danas prepoznaju i uživaju mnogi. Tokom vremena rasli smo zajedno sa našim gostima, slušajući njihove želje i neprestano uvodeći sveže ukuse koji našu ponudu čine posebnijom iz dana u dan."]}
           </p>
           <img src={`/Images/dots.png`} alt={``} width={100} height={100}  className={`mt-10 mx-auto`} />
         </div>

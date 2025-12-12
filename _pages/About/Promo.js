@@ -20,7 +20,7 @@ const Promo = () => {
             {translate[lang]["ZAŠTO IZABRATI GALLO'S?"]}
           </h1>
           <p className={`text-slate-500  sm:text-left`}>
-            {translate[lang]["Sa više od 27 godina iskustva u franšizingu, omogućavamo potpunu podršku franšiznim partnerima širom sveta."]}
+            {translate[lang]["Zato što verujemo da dobra hrana mora imati dušu. Svako jelo pripremamo s pažnjom, biramo samo proverene sastojke i trudimo se da svaki zalogaj donese isti osećaj zadovoljstva. Kod nas vas uvek čeka toplo gostoprimstvo, autentičan ukus i iskustvo kojem ćete se rado vraćati."]}
 
           </p>
           <div className={`relative flex items-center gap-2 mt-0`}>

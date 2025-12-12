@@ -40,13 +40,13 @@ export const translate = {
     "BASMATI PIRINAČ": "Basmati pirinač",
     "Pileća krilca grilovana na plamenu": "Pileća krilca grilovana na plamenu",
     "PILEĆI NUGGETS": "PILEĆI NUGGETS",
-    "Naša priča počinje pre 27 godina.": "Naša priča počinje pre 27 godina.",
+    "Naša priča": "Naša priča",
     DEZERTI: "DEZERTI",
     "HOMEMADE NUTELLA BROWNIE": "HOMEMADE NUTELLA BROWNIE",
     "Kugla sladoleda od vanile": "Kugla sladoleda od vanile",
     "PILEĆA ESPETADA": "PILEĆA ESPETADA",
-    "Osnovan u malom gradu Nelspruitu u Južnoj Africi 1996. godine, Gallo's se kontinuirano širio kako u Južnoj Africi, tako i na međunarodnim tržištima.":
-      "Osnovan u malom gradu Nelspruitu u Južnoj Africi 1996. godine, Gallo's se kontinuirano širio kako u Južnoj Africi, tako i na međunarodnim tržištima.",
+    "Naša priča počela je u maloj zajednici, gde je jednostavna ljubav prema dobroj hrani prerasla u brend koji danas prepoznaju i uživaju mnogi. Tokom vremena rasli smo zajedno sa našim gostima, slušajući njihove želje i neprestano uvodeći sveže ukuse koji našu ponudu čine posebnijom iz dana u dan.":
+      "Naša priča počela je u maloj zajednici, gde je jednostavna ljubav prema dobroj hrani prerasla u brend koji danas prepoznaju i uživaju mnogi. Tokom vremena rasli smo zajedno sa našim gostima, slušajući njihove želje i neprestano uvodeći sveže ukuse koji našu ponudu čine posebnijom iz dana u dan.",
     "27 godina iskustva": "27 godina iskustva",
     "Naša hrana je srce svega što radimo.":
       "Naša hrana je srce svega što radimo.",
@@ -63,8 +63,8 @@ export const translate = {
     "Najviši standardi usluge.": "Najviši standardi usluge.",
     "100% zadovoljstvo": "100% zadovoljstvo",
     "ZAŠTO IZABRATI GALLO'S?": "ZAŠTO IZABRATI GALLO'S?",
-    "Sa više od 27 godina iskustva u franšizingu, omogućavamo potpunu podršku franšiznim partnerima širom sveta.":
-      "Sa više od 27 godina iskustva u franšizingu, omogućavamo potpunu podršku franšiznim partnerima širom sveta.",
+    "Zato što verujemo da dobra hrana mora imati dušu. Svako jelo pripremamo s pažnjom, biramo samo proverene sastojke i trudimo se da svaki zalogaj donese isti osećaj zadovoljstva. Kod nas vas uvek čeka toplo gostoprimstvo, autentičan ukus i iskustvo kojem ćete se rado vraćati.":
+      "Zato što verujemo da dobra hrana mora imati dušu. Svako jelo pripremamo s pažnjom, biramo samo proverene sastojke i trudimo se da svaki zalogaj donese isti osećaj zadovoljstva. Kod nas vas uvek čeka toplo gostoprimstvo, autentičan ukus i iskustvo kojem ćete se rado vraćati.",
     "Izvanredna usluga": "Izvanredna usluga",
     "Hrskavi krompirići sa piri-piri začinima": "Hrskavi krompirići sa piri-piri začinima",
     "Hrana je bila izvanredna, a usluga je bila brza i vrlo profesionalna. Kvalitet obroka je bio sjajan, i zaista sam uživala u svakom zalogaju. Izvanredna usluga.":
@@ -398,9 +398,9 @@ export const translate = {
     Sosevi: "Sauces",
     "Šargarepa, kupus, majonez": "Carrots, cabbage, mayonnaise",
     "Naša priča": "Our Story",
-    "Naša priča počinje pre 27 godina.": "Our story begins 27 years ago.",
-    "Osnovan u malom gradu Nelspruitu u Južnoj Africi 1996. godine, Gallo's se kontinuirano širio kako u Južnoj Africi, tako i na međunarodnim tržištima.":
-      "Founded in the small town of Nelspruit, South Africa, in 1996, Gallo's has continuously expanded both in South Africa and on international markets.",
+    "Naša priča": "Our story",
+    "Naša priča počela je u maloj zajednici, gde je jednostavna ljubav prema dobroj hrani prerasla u brend koji danas prepoznaju i uživaju mnogi. Tokom vremena rasli smo zajedno sa našim gostima, slušajući njihove želje i neprestano uvodeći sveže ukuse koji našu ponudu čine posebnijom iz dana u dan.":
+      "Our story began in a small community, where a simple passion for great food grew into a brand enjoyed by many today. Over time, we evolved alongside our guests, listening to their expectations and continuously introducing fresh flavors that make our offering more special each day.",
     "27 godina iskustva": "27 Years of Experience",
     "Naša hrana je srce svega što radimo.":
       "Our food is the heart of everything we do.",
@@ -416,8 +416,8 @@ export const translate = {
     "Najviši standardi usluge.": "Highest Service Standards.",
     "100% zadovoljstvo": "100% Satisfaction",
     "ZAŠTO IZABRATI GALLO'S?": "WHY CHOOSE GALLO'S?",
-    "Sa više od 27 godina iskustva u franšizingu, omogućavamo potpunu podršku franšiznim partnerima širom sveta.":
-      "With over 27 years of franchising experience, we provide full support to franchise partners worldwide.",
+    "Zato što verujemo da dobra hrana mora imati dušu. Svako jelo pripremamo s pažnjom, biramo samo proverene sastojke i trudimo se da svaki zalogaj donese isti osećaj zadovoljstva. Kod nas vas uvek čeka toplo gostoprimstvo, autentičan ukus i iskustvo kojem ćete se rado vraćati.":
+      "Because we believe great food should have soul. Every dish is prepared with care, using only trusted ingredients, and crafted to deliver the same sense of satisfaction with every bite. With us, you’ll always find warm hospitality, authentic flavor, and an experience you’ll want to return to.",
     "Izvanredna usluga": "Exceptional Service",
     "Hrskavi krompirići": "Fried potato",
     "Hrana je bila izvanredna, a usluga je bila brza i vrlo profesionalna. Kvalitet obroka je bio sjajan, i zaista sam uživala u svakom zalogaju. Izvanredna usluga.":

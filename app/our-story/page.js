@@ -48,7 +48,7 @@ const OurStory = () => {
                 lang === "en" ? TarzanaWide.className : `bebas`
               }`}
             >
-              {translate[lang]["Naša priča počinje pre 27 godina."]}
+              {translate[lang]["Naša priča"]}
             </h1>
             <p
               className={`
@@ -58,7 +58,7 @@ const OurStory = () => {
             >
               {
                 translate[lang][
-                  "Osnovan u malom gradu Nelspruitu u Južnoj Africi 1996. godine, Gallo's se kontinuirano širio kako u Južnoj Africi, tako i na međunarodnim tržištima."
+                  "Naša priča počela je u maloj zajednici, gde je jednostavna ljubav prema dobroj hrani prerasla u brend koji danas prepoznaju i uživaju mnogi. Tokom vremena rasli smo zajedno sa našim gostima, slušajući njihove želje i neprestano uvodeći sveže ukuse koji našu ponudu čine posebnijom iz dana u dan."
                 ]
               }
             </p>
@@ -107,7 +107,7 @@ const OurStory = () => {
           >
             {
               translate[lang][
-                "Sa više od 27 godina iskustva u franšizingu, omogućavamo potpunu podršku franšiznim partnerima širom sveta."
+                "Zato što verujemo da dobra hrana mora imati dušu. Svako jelo pripremamo s pažnjom, biramo samo proverene sastojke i trudimo se da svaki zalogaj donese isti osećaj zadovoljstva. Kod nas vas uvek čeka toplo gostoprimstvo, autentičan ukus i iskustvo kojem ćete se rado vraćati."
               ]
             }
           </p>
