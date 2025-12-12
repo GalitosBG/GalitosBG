@@ -15,14 +15,14 @@ export const metadata = {
   title: "Gallos",
   description:
     "Savor the bold taste of Gallo's at Galerija Mall- Your destination for Flame-Grilled Piri Piri perfection! Indulge in healthy flame-grilled chicken delights from grilled chicken salad, Piri Piri Chicken, burgers and wraps to rice bowl.",
-  image: "/app/favicon.ico",
+  image: "/Images/gallosblack_left.png",
   openGraph: {
     title: "Gallos",
     description:
       "Savor the bold taste of Gallo's at Galerija Mall- Your destination for Flame-Grilled Piri Piri perfection! Indulge in healthy flame-grilled chicken delights from grilled chicken salad, Piri Piri Chicken, burgers and wraps to rice bowl.",
     images: [
       {
-        url: "/app/favicon.ico",
+        url: "/Images/gallosblack_left.png",
         width: 800,
         height: 600,
         alt: "Gallos",
