@@ -40,11 +40,6 @@ const About = () => {
           <p className={`text-[1rem] max-w-md text-slate-500 leading-[1.5rem]`}>
             {translate[lang]["Serviramo 100% pileće meso sa roštilja, marinirano samo najboljim sastojcima, u raznim ukusima - BBQ, Limun i Bilje, Blago ljuto, Ljuto i Extra Ljuto Piri-Piri."]}
           </p>
-          <img
-            src={`/Images/waves.svg`}
-            alt={``}
-            className={`w-[40%] max-sm:w-full scale-1`}
-          />
           <div className={`relative flex items-center gap-2`}>
             <Link href={`/menu`}>
               <Button text={translate[lang]["Vidite naš meni"]} />

@@ -25,7 +25,8 @@ const BlogItem = ({ params }) => {
 
   return (
     <div className={`container mx-auto relative ${TarzanaWide.className}`}>
-      <div className='flex flex-col lg:flex-row'>
+      {/* Blog post content disabled - re-enable to show images and title */}
+      {/* <div className='flex flex-col lg:flex-row'>
         <div className='w-full relative lg:w-8/12'>
           <Image
             src='/Images/mask.png'
@@ -48,9 +49,10 @@ const BlogItem = ({ params }) => {
             dangerouslySetInnerHTML={{ __html: item?.data[lang]?.title }}
           ></h1>
         </div>
-      </div>
+      </div> */}
       <div className='px-10 xl:px-80 py-10 text-xl'>
-        <div dangerouslySetInnerHTML={{ __html: item?.data[lang]?.text }} />
+        {/* Blog post body disabled - re-enable to show post text */}
+        {/* <div dangerouslySetInnerHTML={{ __html: item?.data[lang]?.text }} /> */}
         <Link href='/blog' className='font-bold block text-2xl underline my-10'>
           {translate[lang]?.back}
         </Link>

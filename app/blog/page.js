@@ -19,7 +19,8 @@ const Blog = () => {
   return (
     <>
       <HeroBlog className={TarzanaWide.className} />
-      <BlogItems className={TarzanaWide.className} />
+      {/* Blog posts disabled - re-enable to show list */}
+      {/* <BlogItems className={TarzanaWide.className} /> */}
     </>
   );
 };

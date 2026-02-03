@@ -111,7 +111,7 @@ const OurStory = () => {
               ]
             }
           </p>
-          <img src={`/Images/waves2.svg`} alt={``} className={`mt-10 ml-5`} />
+          
         </div>
         <div className={``}>
           <img

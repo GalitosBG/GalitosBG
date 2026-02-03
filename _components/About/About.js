@@ -34,12 +34,7 @@ const About = () => {
           <p className={`text-[1rem] max-w-md text-slate-500 leading-[1.5rem]`}>
             Our unique flame-grilled and fiery flavour remains at the heart of
             our success no matter how far from home you find us.
-          </p><img
-
-            src={`/Images/waves.svg`}
-            alt={``}
-            className={`w-[40%] max-sm:w-full scale-1`}
-        />
+          </p>
           <div className={`relative flex items-center gap-2`}>
             <Link href={`/menu`}>
               <Button text={`Our menu`} />

@@ -30,11 +30,6 @@ const Hero = () => {
             <Button text={`About us`} />
           </Link>
           <div className={`w-[40%] max-md:hidden mx-auto mt-auto`}>
-            <img
-              className={`w-full -left-2 -top-2 relative -z-10`}
-              src={`/Images/waves.svg`}
-              alt={``}
-            />
           </div>
         </div>
       </div>
