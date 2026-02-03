@@ -48,7 +48,7 @@ const Hero2 = ({ className }) => {
         {/*  <Link href={`/our-story`}>*/}
         {/*    <Button text={`About us`} />*/}
         {/*  </Link>*/}
-        {/*  <div className={`w-[40%] max-md:hidden mx-auto mt-auto`}>*/}
+        {/*  <div className={`w-[40%] max-md:hidden mx-auto mt-autoo`}>*/}
         {/*  </div>*/}
         {/*</div>*/}
       </div>
