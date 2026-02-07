@@ -39,13 +39,6 @@ const HeroBlog = ({ className }) => {
           className='translate-x-20 -translate-y-20 scale-125'
         />
         <Image src={`/Images/hero_dish.png`} fill alt={``} />
-        <Image
-          src={`/Images/hero-focus.png`}
-          alt={``}
-          width={100}
-          height={100}
-          className={`absolute top-0 right-0`}
-        />
       </div>
       <div
         className={`absolute top-[11.5rem] right-0 2xl:top-[9.5rem] 2xl:right-[2.5rem] 2xl:w-[450px] lg:w-[350px] lg:h-[350px] xl:w-[450px] 2xl:h-[450px] xl:h-[450px] 3xl:w-[550px]`}
@@ -66,13 +59,6 @@ const HeroBlog = ({ className }) => {
           height={200}
           alt={``}
           className={`object-cover`}
-        />
-        <Image
-          src={`/Images/hero-focus.png`}
-          alt={``}
-          width={200}
-          height={200}
-          className={`object-cover -right-[2rem] scale-50 absolute`}
         />
       </div>
     </div>
