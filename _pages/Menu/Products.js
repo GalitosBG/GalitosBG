@@ -75,7 +75,7 @@ const Products = ({ className }) => {
           name: translate[lang]["MOZZARELLA STICKS / ŠTAPIĆI"],
           description:
             translate[lang][
-              "Domaći hrskavi štapići mozzarelle uvaljani u panko (sa sosem)"
+              "Domaći hrskavi štapići mozzarelle uvaljani u panko, servirano sa sosem."
             ],
           price: 590,
           image: "/Food/Starters & Soup salad/Gallo_s_Mozzarella_Sticks.jpg",
@@ -117,7 +117,7 @@ const Products = ({ className }) => {
       items: [
         {
           name: translate[lang]["PILEĆA SUPA"],
-          description: translate[lang]["Kremasta pileća supa sa svežim povrćem servirano sa hlebom sa belim lukom / garlic bread"],
+          description: translate[lang]["Kremasta pileća supa sa svežim povrćem servirano sa hlebom sa belim lukom."],
           price: 490,
           image: "/Food/Starters & Soup salad/Gallo_s_Soup.jpg",
         },
@@ -224,14 +224,14 @@ const Products = ({ className }) => {
         // },
         {
           name: translate[lang]["GALLO’S SIGNATURE"],
-          description: translate[lang]["Marinirani pileći file grilovan na otvorenom plamenu & servirano sa jednim od vaših omiljenih priloga."],
+          description: translate[lang]["Grilovana piletina na otvorenom plamenu, servirano sa totiljom od belog luka I svežom salsom."],
             price1: 1090,
           image:
           "/Food/Flame Grilled Chicken and rice bowls/Gallo_s_Signature.jpg",
         },
         {
           name: translate[lang]["PILEĆI FILE"],
-          description: translate[lang]["Grilovana piletina na otvorenom plamenu, servirano sa totiljom od belog luka I svežom salsom."],
+          description: translate[lang]["Marinirani pileći file grilovan na otvorenom plamenu & servirano sa jednim od vaših omiljenih priloga."],
             price1: 1090,
           image:
             "/Food/Flame Grilled Chicken and rice bowls/Gallo_s_Chicken_Fillet.jpg",
@@ -300,18 +300,18 @@ const Products = ({ className }) => {
           image: "/Food/Burgers &nWrap/Gallo_s_Crispy_Chicken_Strips.jpg",
           description:
             translate[lang][
-              "Hrskave pileće trakice servirane sa jednim umakom/sosem i prilogom po vašem izboru."
+              "Hrskave pileće trakice, servirane sa pomfritom i prilogom po izboru."
             ],
         },
-        {
-          name: translate[lang]["DOUBLE-DREDGED SHRIMP"],
-          price: 1290,
-          image: "/Food/Burgers &nWrap/Gallo_s_Double_Dredged_Shrimp.jpg",
-          description:
-            translate[lang][
-              "Hrskavi škampi, servirani sa Gallo’s umak/sos."
-            ],
-        },
+        // {
+        //   name: translate[lang]["DOUBLE-DREDGED SHRIMP"],
+        //   price: 1290,
+        //   image: "/Food/Burgers &nWrap/Gallo_s_Double_Dredged_Shrimp.jpg",
+        //   description:
+        //     translate[lang][
+        //       "Hrskavi škampi, servirani sa Gallo’s umak/sos."
+        //     ],
+        // },
         {
           name: translate[lang]["HRSKAVI PILEĆI WRAP"],
           price: 990,
@@ -353,7 +353,7 @@ const Products = ({ className }) => {
 
           description:
             translate[lang][
-              "Grilovane trake od piloećeg filea, majonez, ajsberg salata, paradajz, čedar sir & servirano sa pomfritom"   
+              "Grilovane trake od pilećeg filea, majonez, ajsberg salata, paradajz, čedar sir & servirano sa pomfritom."   
             ],
         },
         {
@@ -470,7 +470,7 @@ const Products = ({ className }) => {
         },
         {
           name: translate[lang]["BATAT POMFRIT"],
-          description: translate[lang]["Prženi / hrsakvi batat (krompir)"],
+          description: translate[lang]["Hrskavi batat krompirići"],
           price: 350,
           type: "signature",
           image: "/Food/Sides/Gallo_s_Sweet_Potato_Fries.jpg",
@@ -517,20 +517,20 @@ const Products = ({ className }) => {
           type: "regular",
           image: "/Food/Sides/Gallo_s_Beans_Salad.jpg",
         },
-        {
-          name: translate[lang]["PIRE KROMPIR"],
-          description: translate[lang][""],
-          price: 350,
-          type: "regular",
-          image: "/Images/gallosblack_left.png",
-        },
-        {
-          name: translate[lang]["GRAŠAK"],
-          description: translate[lang][""],
-          price: 350,
-          type: "regular",
-          image: "/Images/gallosblack_left.png",
-        },
+        // {
+        //   name: translate[lang]["PIRE KROMPIR"],
+        //   description: translate[lang][""],
+        //   price: 350,
+        //   type: "regular",
+        //   image: "/Images/gallosblack_left.png",
+        // },
+        // {
+        //   name: translate[lang]["GRAŠAK"],
+        //   description: translate[lang][""],
+        //   price: 350,
+        //   type: "regular",
+        //   image: "/Images/gallosblack_left.png",
+        // },
         // {
         //   name: translate[lang]["PIRE KROMPIR"],
         //   description: "",
