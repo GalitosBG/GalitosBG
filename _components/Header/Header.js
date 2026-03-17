@@ -92,7 +92,7 @@ const Header = () => {
                     )}
                   </Link>
                 </div>
-                {/* <div className={`flex items-center gap-2`}>
+                {<div className={`flex items-center gap-2`}>
                   <Link
                     className={`
                  hover:from-0% hover:to-100% hover:bg-gradient-to-r relative hover:text-[#91c055] transition-all duration-300 ease-in-out
@@ -106,7 +106,7 @@ const Header = () => {
                       ></div>
                     )}
                   </Link>
-                </div> */}
+                </div> }
                 <div className={`flex items-center gap-2`}>
                   <Link
                     className={`
@@ -241,7 +241,7 @@ const Header = () => {
                 {translate[lang]["Meni"]}
               </Link>
             </div>
-            {/* <div className={`flex items-center gap-2`}>
+            {<div className={`flex items-center gap-2`}>
               {pathname === "/sauces" && (
                 <div
                   className={`h-[8px] w-[8px] bg-[#ffce04] rounded-full`}
@@ -256,7 +256,7 @@ const Header = () => {
               >
                 {translate[lang]["Sosevi"]}
               </Link>
-            </div> */}
+            </div>}
             <div className={`flex items-center gap-2`}>
               {pathname === "/blog" && (
                 <div

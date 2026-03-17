@@ -27,9 +27,9 @@ const Footer = () => {
           <Link href={`/menu`} className={`text-lg relative hovered font-normal`}>
             {translate[lang]["Meni"]}
           </Link>
-          {/* <Link href={`/sauces`} className={`text-lg relative hovered font-normal`}>
+          {<Link href={`/sauces`} className={`text-lg relative hovered font-normal`}>
             {translate[lang]["Sosevi"]}          
-          </Link> */}
+          </Link>}
         </div>
         <div className={`flex flex-col self-start items-start gap-3`}>
           <p className={`text-2xl font-bold`}>{translate[lang]["Naša priča"]}</p>
