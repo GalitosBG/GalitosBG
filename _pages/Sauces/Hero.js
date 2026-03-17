@@ -37,7 +37,7 @@ const Hero2 = ({ className }) => {
         <p className={`text-[1rem] max-w-md text-slate-500 leading-[1.5rem]`}>
           {
             translate[lang][
-              "Prodajemo različite Galito's jedinstvene soseve kako biste mogli poneti iskustvo Galito'sa sa sobom kući."
+              "Imamo različite Galllo's jedinstvene soseve kako biste mogli da ih isprobate kod nas."
             ]
           }
         </p>

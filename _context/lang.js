@@ -77,10 +77,10 @@ export const translate = {
       "Nisam mogao biti srećniji što sam odlučio jesti u ovom restoranu. Kvalitet hrane je bio vrhunski, a brza dostava je dodala dodatni plus. Ovo mesto je zaista vredno posete.",
     "Piri-Piri savršenstvo": "Piri-Piri savršenstvo",
     "NA DOHVAT RUKE": "NA DOHVAT RUKE",
-    "Preuzmite Galito's aplikaciju.": "Preuzmite Galito's aplikaciju.",
+    "Preuzmite Galllo's aplikaciju.": "Preuzmite Galllo's aplikaciju.",
     "UKUS KAO KOD KUĆE.": "UKUS KAO KOD KUĆE.",
-    "Prodajemo različite Galito's jedinstvene soseve kako biste mogli poneti iskustvo Galito'sa sa sobom kući.":
-      "Prodajemo različite Galito's jedinstvene soseve kako biste mogli poneti iskustvo Galito'sa sa sobom kući.",
+    "Imamo različite Galllo's jedinstvene soseve kako biste mogli da ih isprobate kod nas.":
+      "Imamo različite Galllo's jedinstvene soseve kako biste mogli da ih isprobate kod nas.",
     "STUPITE U KONTAKT SA NAMA": "STUPITE U KONTAKT SA NAMA",
     "Ako želite da nam ispričate svoje iskustvo u Gallos'su ili želite saznati više o nama, nalazite se na pravom mestu. Pišite nam na mejl i mi ćemo vam odgovoriti.":
       "Ako želite da nam ispričate svoje iskustvo u Gallos'su ili želite saznati više o nama, nalazite se na pravom mestu. Pišite nam na mejl i mi ćemo vam odgovoriti.",
@@ -430,12 +430,12 @@ export const translate = {
       "I couldn't be happier that I decided to dine at this restaurant. The food quality was top-notch, and the fast delivery added an extra plus. This place is truly worth a visit.",
     "Piri-Piri savršenstvo": "Piri-Piri Perfection",
     "NA DOHVAT RUKE": "AT YOUR FINGERTIPS",
-    "Preuzmite Galito's aplikaciju.": "Download the Galito's App.",
+    "Preuzmite Gallos's aplikaciju.": "Download the Gallos's App.",
     "UKUS KAO KOD KUĆE.": "TASTE OF HOME.",
     "Hrskavi batat krompirići": "Fried batat",
     "BATAT POMFRIT": "SWEET POTATO FRIES",
-    "Prodajemo različite Galito's jedinstvene soseve kako biste mogli poneti iskustvo Galito'sa sa sobom kući.":
-      "We sell various unique Galito's sauces so you can take the Galito's experience home with you.",
+    "Imamo različite Galllo's jedinstvene soseve kako biste mogli da ih isprobate kod nas.":
+      "We have various Gallo’s unique sauces so you can try them here with us.",
     "HOMEMADE NUTELLA BROWNIE": "HOMEMADE NUTELLA BROWNIE",
     "STICKY DATE PUDDING": "STICKY DATE PUDDING",
     "STUPITE U KONTAKT SA NAMA": "GET IN TOUCH WITH US",

@@ -27,7 +27,7 @@ const HeroBottom = () => {
          {translate[lang]["NA DOHVAT RUKE"]}
         </span>
         <p className={`text-[1rem] max-w-md text-slate-500 leading-[1.5rem]`}>
-          {translate[lang]["Preuzmite Galito's aplikaciju."]}
+          {translate[lang]["Preuzmite Gallo's aplikaciju."]}
         </p>
         <div className={`flex items-center mt-5 gap-3`}>
           <a href={`https://yum.bi/galapp`} target="_blank">
