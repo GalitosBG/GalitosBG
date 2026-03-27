@@ -22,7 +22,7 @@ const TopSection = () => {
             {/*</span>{" "}*/}
           </h1>
           <p className={`text-slate-500 sm:max-w-[50%] sm:text-center`}>
-            {translate[lang]["Naša priča počela je u maloj zajednici, gde je jednostavna ljubav prema dobroj hrani prerasla u brend koji danas prepoznaju i uživaju mnogi. Tokom vremena rasli smo zajedno sa našim gostima, slušajući njihove želje i neprestano uvodeći sveže ukuse koji našu ponudu čine posebnijom iz dana u dan."]}
+            {translate[lang]["Gallos halal piri piri piletina pečena na plamenu predstavlja pravo uživanje na tanjiru. Nudi savršen nivo ljutine u kombinaciji sa bogatim, neodoljivim slojevima ukusa. Naša kućna marinada napravljena je od 100% prirodnih sastojaka i pažljivo odabranih začina i biljaka, omogućavajući piletini da upije bogat ukus tokom najmanje 24 sata. Sveže pečena na vatri po porudžbini, sa prepoznatljivom sočnom koricom — to je najukusnija i najkvalitetnija portugalska piletina pečena na plamenu u okolini. Želite Gallos ukus i kod kuće? Nabavite naše ekskluzivne sosove, marinade ili već marinirane pileće filete (flatties) u varijantama: limun i začinsko bilje, blago i ljuto."]}
           </p>
           <img src={`/Images/dots.png`} alt={``} width={100} height={100}  className={`mt-10 mx-auto`} />
         </div>
