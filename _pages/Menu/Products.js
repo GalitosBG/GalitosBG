@@ -25,9 +25,9 @@ const Products = ({ className }) => {
       slug: "predjela",
       items: [
         {
-          name: translate[lang]["GRILOVANA PILEĆA KRILCA"],
+          name: translate[lang]["GRILOVANA PILEĆA KRILCA 500G"],
           description: translate[lang]["Pileća krilca grilovana na plamenu"],
-          price: 790,
+          price: 900,
           image: "/Food/Starters & Soup salad/Gallo_s_Chicken_Wings.jpg",
         },
         {
@@ -36,7 +36,7 @@ const Products = ({ className }) => {
             translate[lang][
               "Grilovana pileća džigerica, sishebo sos, hleb sa belim lukom"
             ],
-          price: 1180,
+          price: 850,
           image: "/Food/Starters & Soup salad/Gallo_s_Chicken_Liver.jpg",
         },
         // {
@@ -62,7 +62,7 @@ const Products = ({ className }) => {
           description:
             translate[lang][
               "Cepkana piletina, tortilja, pasulj salata, crni luk, paprika, ajsberg salata"],
-          price: 970,
+          price: 790,
           image: "/Food/Starters & Soup salad/Gallo_s_Tacos.jpg",
         },
         // {
@@ -95,7 +95,7 @@ const Products = ({ className }) => {
             translate[lang][
               "Kokice/kockice od pohovanog pilećeg filea, pomfrit, topljeni sos od čedar sira"
             ],
-          price: 970,
+          price: 790,
           image: "/Food/Starters & Soup salad/Gallo_s_Chicken_Popcorn.jpg",
         },
 
@@ -118,7 +118,7 @@ const Products = ({ className }) => {
         {
           name: translate[lang]["PILEĆA SUPA"],
           description: translate[lang]["Kremasta pileća supa sa svežim povrćem servirano sa hlebom sa belim lukom."],
-          price: 590,
+          price: 490,
           image: "/Food/Starters & Soup salad/Gallo_s_Soup.jpg",
         },
         // {
@@ -137,7 +137,7 @@ const Products = ({ className }) => {
             translate[lang][
               "Grilovani pileći file, ajsberg salata, krutoni, parmezan, domaći caesar dressing"
             ],
-          price: 1230,
+          price: 1080,
           image: "/Food/Starters & Soup salad/Gallo_s_Ceasar_Salad.jpg",
         },
         {
@@ -146,7 +146,7 @@ const Products = ({ className }) => {
             translate[lang][
               "Grilovani pilećin file, mix zelene i ajsberg salate, krastavac, paradajz, crni luk, paprika, marinirana cvekla, grilovani slatki kukuruz, sjenički sir, krutoni, fresh lemon dressing"
             ],
-          price: 1390,
+          price: 1290,
           image: "/Food/Starters & Soup salad/Gallo_s_Grill_Master_Salad.jpg",
         },
       ],
@@ -160,7 +160,7 @@ const Products = ({ className }) => {
           
           description:
             translate[lang]["Grilovani pileći file, pirinač"],
-          price: 1290,
+          price: 1090,
           image: "/Food/Flame Grilled Chicken and rice bowls/Gallo_s_Chicken_Bowl.jpg",
         },
         {
@@ -169,7 +169,7 @@ const Products = ({ className }) => {
             translate[lang][
               "Grilovani pileći file, grilovano povrće i pečurke, pirinač, sishebo sauce"
             ],
-          price: 1350,
+          price: 1250,
           image:
             "/Food/Flame Grilled Chicken and rice bowls/Gallo_s_Chicken_Veggie_Bowl.jpg",
         },
@@ -185,7 +185,7 @@ const Products = ({ className }) => {
           name: "VEGGIE BOWL",
           description:
             translate[lang]["Grilovano povrće i pečurke, pirinač, sishebo sauce"],
-          price: 1120,
+          price: 950,
           image:
             "/Food/Flame Grilled Chicken and rice bowls/Gallo_s_Veggie_Bowl.jpg",
         },
@@ -195,7 +195,7 @@ const Products = ({ className }) => {
             translate[lang][
               "Grilovani pileći file, spanać, chili beans, pirinač"
             ],
-          price: 1390,
+          price: 1190,
           image: "/Food/Flame Grilled Chicken and rice bowls/Gallo_s_Gallo_Bowl.jpg",
         },
       ],
@@ -225,14 +225,14 @@ const Products = ({ className }) => {
         {
           name: translate[lang]["GALLO’S SIGNATURE"],
           description: translate[lang]["Grilovana piletina na otvorenom plamenu, servirano sa totiljom od belog luka I svežom salsom."],
-            price1: 1390,
+            price1: 1290,
           image:
           "/Food/Flame Grilled Chicken and rice bowls/Gallo_s_Signature.jpg",
         },
         {
           name: translate[lang]["PILEĆI FILE"],
           description: translate[lang]["Marinirani pileći file grilovan na otvorenom plamenu & servirano sa jednim od vaših omiljenih priloga."],
-            price1: 1390,
+            price1: 1290,
           image:
             "/Food/Flame Grilled Chicken and rice bowls/Gallo_s_Chicken_Fillet.jpg",
         },
@@ -242,7 +242,7 @@ const Products = ({ className }) => {
             translate[lang][
               "Marinirani pileći batak (bez kostiju) serviran sa jednim od vaših omiljenih priloga"
             ],
-          price: 1490,
+          price: 1390,
           image:
             "/Food/Flame Grilled Chicken and rice bowls/Gallo_s_Durban_Chicken.jpg",
         },
@@ -252,7 +252,7 @@ const Products = ({ className }) => {
             translate[lang][
               "Grilovani komadi pilećeg bataka (bez kostiju), grilovano povrće, servirano sa jednim od vaših omiljenih priloga"
             ],
-          price: 1550,
+          price: 1450,
           image: "/Food/Flame Grilled Chicken and rice bowls/Gallo_s_Espetados.jpg",
         },
         // {
@@ -314,11 +314,11 @@ const Products = ({ className }) => {
       items: [
         {
           name: translate[lang]["HRSKAVE PILEĆE TRAKICE"],
-          price: 1290,
+          price: 1190,
           image: "/Food/Burgers &nWrap/Gallo_s_Crispy_Chicken_Strips.jpg",
           description:
             translate[lang][
-              "Hrskave pileće trakice, servirane sa pomfritom i prilogom po izboru."
+              "Hrskave pileće trakice servirane sa umakom i prilogom po izboru."
             ],
         },
         // {
@@ -332,7 +332,7 @@ const Products = ({ className }) => {
         // },
         {
           name: translate[lang]["HRSKAVI PILEĆI WRAP"],
-          price: 1190,
+          price: 1090,
           image: "/Food/Burgers &nWrap/Gallo_s_Crispy_Chicken_Wrap.jpg",
           description:
             translate[lang][
@@ -345,7 +345,7 @@ const Products = ({ className }) => {
             translate[lang][
               "Hrskavi pileći file uvaljan u panko čedar sir, ajsberg salata, domaći burger sos & servirano sa pomfritom. <b>Regular / Nashville ljuti</b>"
             ],
-          price: 1190,
+          price: 1090,
           image: "/Food/Burgers &nWrap/Gallo_s_Crispy_Chicken_Burger.jpg",
         },
       ],
@@ -356,7 +356,7 @@ const Products = ({ className }) => {
       items: [
         {
           name: translate[lang]["GALLOS PILEĆI BURGER"],
-          price: 1290,
+          price: 1190,
           image: "/Food/Burgers &nWrap/Gallo_s_Chicken_Burger.jpg",
 
           description:
@@ -366,7 +366,7 @@ const Products = ({ className }) => {
         },
         {
           name: translate[lang]["GRILOVANI PILEĆI WRAP"],
-          price: 1290,
+          price: 1190,
           image: "/Food/Burgers &nWrap/Gallo_s_Grilled_Chicken_Wrap.jpg",
 
           description:
@@ -380,7 +380,7 @@ const Products = ({ className }) => {
             translate[lang][
               "Cepkana piletina grilovana na otvorenom plamenu, crni luk, paprika, ajsberg salata, majonez, čedar, sishebo sos & servirano sa pomfritom"
             ],
-          price: 1290,
+          price: 1190,
           image: "/Food/Burgers &nWrap/Gallo_s_Shredded_Chicken_Wrap.jpg",
         },
         {
@@ -388,7 +388,7 @@ const Products = ({ className }) => {
           description:
             translate[lang]["Grilovani pileći file, ajsberg salata, krutoni, parmezan, domaći caesar dresing & servirano sa pomfritom"],
             
-          price: 1290,
+          price: 1190,
           image: "/Food/Burgers &nWrap/Gallo_s_Ceasar_Wrap.jpg",
         },
         {
@@ -397,7 +397,7 @@ const Products = ({ className }) => {
             translate[lang][
               "Mlevena junetina, čedar sir, karamelizovani luk, kiseli krastavci, domaći burger sos & servirano sa pomfritom"
             ],
-          price: 1390,
+          price: 1290,
           image: "/Food/Burgers &nWrap/Gallo_s_Smash_Beef_Burger.jpg",
         },
         // {
@@ -415,13 +415,13 @@ const Products = ({ className }) => {
       category: translate[lang]["PODELI OBROK"],
       slug: "porodicni-obrok",
       items: [
-        {
-          name: translate[lang]["OBROK ZA DVOJE"],
-          description: translate[lang]["Četiri parčeta piletine grilovane na otvorenom plamenu, dve porcije pomfrita, ciabatta hleb, dva pića (po izboru)"],
+        // {
+        //   name: translate[lang]["OBROK ZA DVOJE"],
+        //   description: translate[lang]["Četiri parčeta piletine grilovane na otvorenom plamenu, dve porcije pomfrita, ciabatta hleb, dva pića (po izboru)"],
           
-          price: 2190,
-          image: "/Food/meals to share and Piri Wings/Gallo_s_Share_a_Meal.jpg",
-        },
+        //   price: 2190,
+        //   image: "/Food/meals to share and Piri Wings/Gallo_s_Share_a_Meal.jpg",
+        // },
         {
           name: translate[lang]["CELO PILE"],
           description: translate[lang]["Celo pile grilovano na otvorenom plamenu u prethodno odležaloj našoj specijalnoj marinadi. Servirano sa: dva priloga po vašem izboru."],
@@ -439,13 +439,13 @@ const Products = ({ className }) => {
           name: translate[lang]["ESPETADOS"],
           description:
             translate[lang]["Dva ražnjića sa komadima grilovanih pilećih bataka, grilovano povrće, servirano sa dva priloga po vašem izboru"],
-          price: 2990,
+          price: 2790,
           image: "/Food/meals to share and Piri Wings/Gallo_s_Share_a_Meal_Espetados.jpg",
         },
         {
-          name: translate[lang]["PILEĆA KRILCA - 15"],
+          name: translate[lang]["PILEĆA KRILCA - 1KG"],
           description: translate[lang]["Grilovana pileća krilca na otvorenom plamenu, servirano sa pomfritom, izbor sosa/Choice of spice level"],
-          price: 2900,
+          price: 1800,
           image: "/Food/meals to share and Piri Wings/Gallo_s_Share_a_Meal_Chicken_Wings.jpg",
         },
         // {
@@ -475,70 +475,70 @@ const Products = ({ className }) => {
         {
           name: translate[lang]["POMFRIT"],
           description: translate[lang]["Hrskavi krompirići"],
-          price: 390,
+          price: 320,
           type: "regular",
           image: "/Food/Sides/Gallo_s_French_Fries.jpg",
         },
         {
           name: translate[lang]["PIRI POMFRIT"],
           description: translate[lang]["Hrskavi krompirići sa piri-piri začinima"],
-          price: 410,
+          price: 350,
           type: "regular",
           image: "/Food/Sides/Gallo_s_Piri_French_Fries.jpg",
         },
         {
           name: translate[lang]["CHEESY POMFRIT"],
           description: translate[lang]["Hrskavi krompirići sa topljenim čedar sirom"],
-          price: 550,
+          price: 490,
           type: "regular",
           image: "/Food/Sides/Gallo_s_Cheese_French_Fries.jpg",
         },
         {
           name: translate[lang]["BATAT POMFRIT"],
           description: translate[lang]["Hrskavi batat krompirići"],
-          price: 490,
+          price: 450,
           type: "signature",
           image: "/Food/Sides/Gallo_s_Sweet_Potato_Fries.jpg",
         },
         {
           name: translate[lang]["PIRINAČ"],
           description: translate[lang]["BASMATI PIRINAČ"],
-          price: 470,
+          price: 390,
           type: "regular",
           image: "/Food/Sides/Gallo_s_Rice.jpg",
         },
         {
           name: "COLE SLAW",
           description: translate[lang]["Šargarepa, kupus, majonez"],
-          price: 450,
+          price: 390,
           type: "regular",
           image: "/Food/Sides/Gallo_s_Coleslaw.jpg",
         },
         {
           name: translate[lang]["SVEŽA BAŠTENSKA SALATA"],
           description: translate[lang]["Ajsberg salata, paprika, krastavac, paradajz, italijanski dresing"],
-          price: 490,
+          price: 390,
           type: "regular",
           image: "/Food/Sides/Gallo_s_Green_Garden_Salad.jpg",
         },
         {
           name: translate[lang]["HLEB SA BELIM LUKOM"],
           description: translate[lang]["Ciabatta hleb, puter od belog luka"],
-          price: 450,
+          price: 350,
           type: "regular",
           image: "/Food/Sides/Gallo_s_Garlic_Bread.jpg",
         },
         {
           name: translate[lang]["GRILOVANO POVRĆE"],
           description: translate[lang]["Grilovane šargarepe, paprika, beli luk, pečurke, tikvice, crni luk, origano"],
-          price: 550,
+          price: 450,
           type: "signature",
           image: "/Food/Sides/Gallo_s_Grilled_Vegetables.jpg",
         },
         {
           name: translate[lang]["PASULJ SALATA"],
           description: translate[lang]["Boranija, pasulj, pečeni pasulj, paprika, crni luk domaći piri-piri slako & ljuti dressing"],
-          price: 490,
+          price: 450,
           type: "regular",
           image: "/Food/Sides/Gallo_s_Beans_Salad.jpg",
         },
@@ -610,14 +610,14 @@ const Products = ({ className }) => {
         {
           name: `${translate[lang]["PILEĆI NUGGETS"]}`,
           description: translate[lang]["Komadići pilećeg filea & servirano sa pomfritom"],
-          price: 790,
+          price: 650,
           image: "/Food/Burgers &nWrap/Gallo_s_Chicken_Nuggets.jpg",
         },
         {
           name: `${translate[lang]["PILEĆI TENDERSI"]}`,
           description: translate[lang]["Trakice pilećeg filea & servirano sa pomfritom"],
           image: "/Food/Burgers &nWrap/Gallo_s_Chicken_Tenders.jpg",
-          price: 790,
+          price: 650,
         },
         // {
         //   name: `${translate[lang]["SLADOLED"]}`,
