@@ -225,14 +225,14 @@ const Products = ({ className }) => {
         {
           name: translate[lang]["GALLO’S SIGNATURE"],
           description: translate[lang]["Grilovana piletina na otvorenom plamenu, servirano sa totiljom od belog luka I svežom salsom."],
-            price1: 1290,
+            price: 1290,
           image:
           "/Food/Flame Grilled Chicken and rice bowls/Gallo_s_Signature.jpg",
         },
         {
           name: translate[lang]["PILEĆI FILE"],
           description: translate[lang]["Marinirani pileći file grilovan na otvorenom plamenu & servirano sa jednim od vaših omiljenih priloga."],
-            price1: 1290,
+            price: 1290,
           image:
             "/Food/Flame Grilled Chicken and rice bowls/Gallo_s_Chicken_Fillet.jpg",
         },
@@ -318,7 +318,7 @@ const Products = ({ className }) => {
           image: "/Food/Burgers &nWrap/Gallo_s_Crispy_Chicken_Strips.jpg",
           description:
             translate[lang][
-              "Hrskave pileće trakice servirane sa umakom i prilogom po izboru."
+              "Hrskave pileće trakice servirane sa umakom i prilogom po izboru"
             ],
         },
         // {
