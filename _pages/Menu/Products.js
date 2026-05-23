@@ -283,7 +283,7 @@ const Products = ({ className }) => {
             
         },
         {
-          name: translate[lang]["GALLO'S SPECIJAL"],
+          name: translate[lang]["POLA PILETA"],
           description: translate[lang]["Grilovana piletina na otvorenom plamenu, servirana uz pirinač, tortilju sa belim lukom i svežom salsom."],
           price: 1300,
           //price2: 1010,
