@@ -169,7 +169,7 @@ export const translate = {
     "Grilovani pilećin file, mix zelene i ajsberg salate, krastavac, paradajz, crni luk, paprika, marinirana cvekla, grilovani slatki kukuruz, sjenički sir, krutoni, fresh lemon dressing":
       "Grilovani pilećin file, mix zelene i ajsberg salate, krastavac, paradajz, crni luk, paprika, marinirana cvekla, grilovani slatki kukuruz, sjenički sir, krutoni, fresh lemon dressing",
     "ČETVRTINA PILETA": "ČETVRTINA PILETA",
-    "GALLO'S SPECIJAL": "GALLO'S SPECIJAL",
+    "POLA PILETA": "POLA PILETA",
     "Grilovana četvrtina pileta na otvorenom plamenu, prilog po izboru.": "Grilovana četvrtina pileta na otvorenom plamenu, prilog po izboru.",
     "POLA PILETA": "POLA PILETA",
     "(2x350g sa koskom)": "(2x350g sa koskom)",
@@ -314,7 +314,7 @@ export const translate = {
     "POLA PILETA": "HALF CHICKEN",
     "Grilovana četvrtina pileta na otvorenom plamenu, prilog po izboru.": "Grilled quarter chicken over an open flame, side dish of your choice.",
     "ČETVRTINA PILETA": "QUARTER CHICKEN",
-    "GALLO'S SPECIJAL": "GALLO'S SPECIAL",
+    "POLA PILETA": "HALF CHICKEN",
     "Grilovani pilećin file, mix zelene i ajsberg salate, krastavac, paradajz, crni luk, paprika, marinirana cvekla, grilovani slatki kukuruz, sjenički sir, krutoni, fresh lemon dressing":
       "Grilled chicken breast, mix lolo and iceberg lettuce, cucumber, tomato, onion, peppers, marinated beetroot, sweet grilled corn, cottage cheese, croutons, fresh lemon dressing",
     "GRILL MASTER'S SALATA (V)": "GRILL MASTER'S SALAD (V)",
